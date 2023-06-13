@@ -1,0 +1,29 @@
+Sections 📚
+✔️ About me
+✔️ Contact Info
+✔️ Resume
+
+creating menu tabs & logo at top using html.
+creating banner layout in html.
+creating banner area in css
+creating about me layout in html & CSS.
+Creating Logo & Menu's Header Using CSS.
+creating sticky header menu nav bar in css.
+creating contact layout in html.
+designing contact layout in css.
+creating footer layout in html.
+Making Responsive Layout.
+
+//HTML section
+(1) Hero Section:
+     On .hero-title, put your custom portfolio title.
+
+(2) About Section:
+    On <img> tag, fill the src property with your profile picture path.
+    On <p> tag , include information about you.
+    On last <a> tag, include your CV (.pdf) path on href property, your resume CV must be located.
+
+(3) Footer Section:
+    Put your Social Media URL on each href attribute of the <a> tags.
+    If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to Font Awesome Icons and search for the icon's class name you are looking.
+    You can delete or add as many <a> tags your want.
